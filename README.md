@@ -16,7 +16,7 @@ Mais uma vez, **“Sejam Bem Vindos!”** e **“Bom trabalho!”**
 
 ___________________
 
-**Semana 1 – Apresentação e Introdução ao Curso
+**Semana 1 – Apresentação e Introdução ao Curso**
 
 SEJAM BEM VINDOS! Esta é a nossa primeira semana de curso. Daremos uma noção do que será o curso e apresentaremos uma visão geral sobre a área de Ciência da Computação e a linguagem Python.
 
@@ -26,7 +26,7 @@ Videoaulas/Conteúdos:
 
 O que é Ciência da Computação? (Conhecimentos envolvidos, habilidades básicas e avançadas, conceitos básicos e "Por onde começar?")
 
-**Semana 2 – Introdução ao Python
+**Semana 2 – Introdução ao Python**
 
 Na Semana 2, teremos uma introdução à linguagem de programação Python. Iremos aprender o que são variáveis, os tipos de dados existentes e para que serve o comando input e print. Faremos também nosso primeiro programa. Mãos à obra ;-)
 
@@ -48,7 +48,7 @@ Tipos de dados, operador aritmético de divisão inteira e resto (//, %), conver
 
 Comando "input", utilizou conversão de tipo, resolução de dois exercícios
 
-**Semana 3 – Condicional – if..else
+**Semana 3 – Condicional – if..else**
 
 Nesta semana estudaremos os desvios condicionais que você poderá implementar em seus programas, usando o comando "if..else". Além disso, estudaremos variáveis e expressões booleanas.
 
@@ -66,7 +66,7 @@ If, if..else, módulo math, exemplo
 
 Utilização do módulo math e de ifs aninhados
 
-**Semana 4 – Repetição - while
+**Semana 4 – Repetição - while**
 
 Começaremos vendo como programar a execução repetida de um mesmo conjunto de instruções por meio de laços (loops). Trabalharemos com indicadores de passagem e aprenderemos a utilizar o depurador (debbuger) que faz o acompanhamento da execução do programa, auxiliando o entendimento e a detecção de possíveis erros.
 
@@ -84,7 +84,7 @@ Indicadores de Passagem, 2 exemplos e 1 desafio
 
 Como utilizar o depurador em sua forma mais simples
 
-**Semana 5 – Função
+**Semana 5 – Função**
 
 Semana 5, é hora de aprendermos a fazer e utilizar funções. Vamos começar... ;-)
 
@@ -106,7 +106,7 @@ Refatoração de código e decomposição de problemas
 
 Funcionamento no contexto onde há várias funções.
 
-**Semana 6 – Função com repetições encaixadas
+**Semana 6 – Função com repetições encaixadas**
 
 Existem situações em que precisamos trabalhar com repetições de repetições.
 
@@ -128,7 +128,7 @@ Mostrar a decomposição em fatores primos e a multiplicidade de cada fator de u
 
 Informar, para cada valor digitado pelo usuário, se ele é um número primo ou não
 
-**Semana 7 – Listas
+**Semana 7 – Listas**
 
 Quando precisamos trabalhar com um conjunto de dados, utilizamos listas para implementar isso em Python. Nessa semana veremos como as listas funcionam, o comando "for" e muito mais.
 
@@ -150,7 +150,7 @@ Fatias de listas, clonando listas, pertinência a uma lista, concatenação (+),
 
 Definição de objeto e de memória. Objetos e suas referências. Explicação do comando “is”
 
-**Semana 8 – Matrizes
+**Semana 8 – Matrizes**
 
 Conceitos e funcionamento de matrizes em Python. Assista as videoaulas e resolva os exercícios com muita atenção! Se necessário, assista novamente alguma aula que não tenha compreendido completamente.
 
@@ -164,7 +164,7 @@ Definição, criação, inicialização, leitura, escrita e outras manipulaçõe
 
 Dada uma lista de temperaturas de um mês, informar qual a maior e a menor temperatura do mês
 
-**Semana 9 – Strings, 4 Pequenos Conceitos e Modularização
+**Semana 9 – Strings, 4 Pequenos Conceitos e Modularização**
 
 Nesta semana, vamos estudar “string”, o que é, como usar e manipular. Veremos também 4 pequenos conceitos que irão nos ajudar muito na hora de programar. Além disso, veremos como a organização do programa ajuda o programador na sua tarefa, deixando o código mais fácil de ser entendido, conferido e arrumado, caso necessário. Para isso, vamos falar sobre “modularização”.
 
@@ -186,7 +186,7 @@ Operadores relacionais. Comandos: is e ord
 
 Definição, criação e utilização de um módulo. Comando “import” e suas funções. Atribuição de uma função para uma variável. Nomenclatura de módulos.
 
-**Semana 10 – POO – Programação Orientada a Objetos
+**Semana 10 – POO – Programação Orientada a Objetos**
 
 Conceitos básicos de programação orientada a objetos. Classes, instâncias, atributos, métodos, construtor. Assista os vídeos quantas vezes forem necessárias para que você entenda muito bem cada conceito.
 
@@ -208,7 +208,7 @@ Evolução das linguagens. Programação Orientada a Objetos – Conceitos: Obje
 
 Método Construtor: definição, criação e utilização. Utilização de método diversos.
 
-**Semana 11 – Algoritmos de Busca e Ordenação. Complexidade Computacional
+**Semana 11 – Algoritmos de Busca e Ordenação. Complexidade Computacional**
 
 Vimos até agora como armazenar e manipular os dados na memória, usando estruturas como listas e matrizes. Tão importante quanto saber armazenar os dados é conseguir organizá-los e recuperá-los quando necessário. Nesta semana iremos estudar alguns algoritmos de busca e ordenação.
 
@@ -226,7 +226,7 @@ Definição de complexidade computacional. Conclusão sobre a complexidade compu
 
 Definição. Demonstração passo a passo do funcionamento. Vídeo demonstrativo. Implementação.
 
-**Semana 12 – Algoritmos de Busca e Ordenação. Análise de Desempenho
+**Semana 12 – Algoritmos de Busca e Ordenação. Análise de Desempenho**
 
 Estamos na penúltima semana do curso. Nesta semana, iremos aprender mais um pouco sobre algoritmos de busca e ordenação.
 
@@ -248,7 +248,7 @@ Funcionamento do algoritmo com a melhoria. Testes e verificação de desempenho.
 
 Definição, funcionamento, implementação e testes. Verificação da complexidade.
 
-**Semana 13 – Testes Automatizados. Códigos Testáveis. Recursão.
+**Semana 13 – Testes Automatizados. Códigos Testáveis. Recursão.**
 
 Parabéns! Você chegou na última semana do curso. Nesta semana, iremos aprender sobre testes automatizados e como produzir códigos testáveis. Estudaremos também como funciona a recursão e como implementá-la. Bom trabalho ;-)
 
