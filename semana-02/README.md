@@ -2,7 +2,7 @@
 Na Semana 2, teremos uma introdução à linguagem de programação Python. Iremos aprender o que são variáveis, os tipos de dados existentes e para que serve o comando input e print. Faremos também nosso primeiro programa. Mãos à obra ;
 ________________________
 
-#### OBSERVAÇÃO: 
+### OBSERVAÇÃO: 
 O python mudou bastante entre a versão 2.X e a versão 3.X; embora o professor mencione no vídeo a versão 2.X, o curso pressupõe que você está usando python na versão 3.X. Se você tem o python 2 instalado, não se preocupe; ambos podem estar instalados ao mesmo tempo.
 
 _________________________
