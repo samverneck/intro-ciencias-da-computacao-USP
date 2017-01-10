@@ -1,11 +1,9 @@
-# EXERCÍCIOS 
-
 **Nesta lista de exercícios vamos praticar os conceitos vistos até agora. Cada exercício deve ser resolvido em um arquivo separado e a seguir enviado através da web. A correção automática pode demorar alguns minutos. Você pode submeter a mesma resposta mais de uma vez caso perceba que a resposta anterior tinha algum problema; a última versão é a que vale.**
 
 **Note que a correção verifica se o resultado corresponde exatamente ao que foi pedido no enunciado. Letras maiúsculas ou minúsculas, número de espaços e pontuação diferentes do pedido são tratados como erro.**
 
 _______________________________
-### Exercício 1
+## Exercício 1
 
 Uma empresa de cartão de crédito envia suas faturas por email com a seguinte mensagem:
 
