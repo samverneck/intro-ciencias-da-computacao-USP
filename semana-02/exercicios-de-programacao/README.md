@@ -44,3 +44,21 @@ valorfat = input ("Digite o valor da fatura: ")
 print("Olá,", nomeclient)
 print("A sua fatura com vencimento em", contavenc, mesvenc, "no valor de R$"+valorfat, "está fechada." )
 ```
+_____________________________
+## Exercício 2
+
+Faça um programa em Python que receba (entrada de dados) o valor correspondente ao lado de um quadrado, calcule e imprima (saída de dados) seu perímetro e sua área.
+
+Observação: a saída deve estar no formato: **"perímetro: x - área: y"**
+
+Abaixo um exemplo de como deve ser a entrada e saída de dados do programa:
+
+Exemplo:
+
+- Entrada de Dados:
+
+**Digite o valor correspondente ao lado de um quadrado: 3**
+
+- Saída de Dados:
+
+**perímetro: 12 - área: 9**
