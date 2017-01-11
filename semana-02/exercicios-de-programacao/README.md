@@ -62,3 +62,15 @@ Exemplo:
 - Saída de Dados:
 
 **perímetro: 12 - área: 9**
+
+### RESPOSTA:
+
+```c
+ladqudrado = int(input("Digite o valor correspondente ao lado de um quadrado: "))
+perimetro = ladqudrado * 4
+area = ladqudrado * ladqudrado
+
+print("perímetro:", perimetro, "- área", area)
+```
+
+_____________________________________________
