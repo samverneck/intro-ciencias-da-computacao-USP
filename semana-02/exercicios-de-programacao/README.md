@@ -163,7 +163,7 @@ Exemplo:
 
 **A média aritmética é 5.5**
 
-**RESPOSTA:
+**RESPOSTA:**
 
 ```c
 
