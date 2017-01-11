@@ -74,3 +74,106 @@ print("perímetro:", perimetro, "- área", area)
 ```
 
 _____________________________________________
+## Exercício 3
+
+Desafio do vídeo "Entrada de Dados": Reescreva o programa contaSegundos para imprimir também a quantidade de dias, ou seja, faça um programa em Python que dada a quantidade de segundos, o programa "quebra" esse valor em dias, horas, minutos e segundos. A saída deve estar no formato: <b>a dias, b horas, c minutos e d segundos.</b>
+
+Abaixo um exemplo de como deve ser a entrada e saída de dados do programa:
+
+Exemplo:
+
+- Entrada de Dados:
+
+**Por favor, entre com o número de segundos que deseja converter: 178615**
+
+- Saída de Dados:
+
+**2 dias, 1 horas, 36 minutos e 55 segundos.**
+
+```c
+totalSeg = int(input("Por favor, entre com o número de segundos que deseja converter: "))
+
+segRestantes = totalSeg % 3600
+segundos = segRestantes % 60
+minutos = segRestantes // 60
+horas = (totalSeg // 3600) % 24
+dias = (totalSeg // 3600) // 24
+
+print(dias, "dias,", horas, "horas,", minutos, "minutos e", segundos, "segundos.")
+```
+________________________________
+## Exercício 4
+
+Faça um programa em Python que recebe um número inteiro e imprime seu dígito das dezenas. Observe o exemplo abaixo:
+
+Exemplo 1:
+
+- Entrada de Dados:
+
+**Digite um número inteiro: 78615**
+
+- Saída de Dados:
+
+**O dígito das dezenas é 1**
+
+Exemplo 2:
+
+- Entrada de Dados:
+
+**Digite um número inteiro: 2**
+
+- Saída de Dados:
+
+**O dígito das dezenas é 0**
+
+<b>Dica:</b> O operador "//" faz uma divisão inteira jogando fora o resto, ou seja, aquilo que é menor que o divisor. O operador "%" devolve apenas o resto da divisão inteira jogando fora o resultado, ou seja, tudo que é maior ou igual ao divisor.
+
+### RESPOSTA:
+
+**RESPOSTA 1:** 
+```c
+numero = int(input("Digite um número inteiro: "))
+digitoDezena = 0 if (numero < 10) else (numero // 10 % 10)
+print("O dígito das dezenas é", digitoDezena)
+```
+**RESOSTA 2:**
+```c
+numero = int(input("Digite um número inteiro: "))
+digitoDezena = 0 if (numero < 10) else (numero % 10 // 10)
+print("O dígito das dezenas é", digitoDezena)
+```
+_________________________________
+## Exercício 5
+
+Faça um programa em Python que receba quatro notas, calcule e imprima a média aritmética. Observe o exemplo abaixo:
+
+Exemplo:
+
+- Entrada de Dados:
+
+**Digite a primeira nota: 4**
+
+**Digite a segunda nota: 5**
+
+**Digite a terceira nota: 6**
+
+**Digite a quarta nota: 7**
+
+- Saída de Dados:
+
+**A média aritmética é 5.5**
+
+**RESPOSTA:
+
+```c
+
+nota1 = int(input("Digite a primeira nota: "))
+nota2 = int(input("Digite a segunda nota: "))
+nota3 = int(input("Digite a terceira nota: "))
+nota4 = int(input("Digite a quarta nota: "))
+
+media = (nota1 + nota2 + nota3 + nota4) / 4
+
+print("A média aritmética é", media)
+```
+_________________________________________
